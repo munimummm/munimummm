@@ -1,3 +1,4 @@
+
 <div>
 <h2>Skills</h2>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -7,11 +8,9 @@
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <a href="https://github.com/munimummm /github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=munimummm " />
-</a>
-  
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munimummm&layout=compact)
 
 <!--
 **munimummm/munimummm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
